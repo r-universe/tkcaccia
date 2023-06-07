@@ -5,7 +5,7 @@
 	branch = HEAD
 [submodule "KODAMA"]
 	path = KODAMA
-	url = https://github.com/cran/KODAMA
+	url = https://github.com/tkcaccia/kodama
 	shallow = true
 	registered = true
 [submodule "MetChem"]

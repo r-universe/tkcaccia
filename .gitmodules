@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "KODAMA"]
 	path = KODAMA
 	url = https://github.com/tkcaccia/kodama
-	shallow = true
-	registered = true
 [submodule "MetChem"]
 	path = MetChem
 	url = https://github.com/cran/MetChem
-	shallow = true
-	registered = true

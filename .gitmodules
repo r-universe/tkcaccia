@@ -8,3 +8,6 @@
 [submodule "MetChem"]
 	path = MetChem
 	url = https://github.com/cran/MetChem
+[submodule "musicNMR"]
+	path = musicNMR
+	url = https://github.com/cran/musicNMR

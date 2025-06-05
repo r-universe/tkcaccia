@@ -7,7 +7,10 @@
 	url = https://github.com/tkcaccia/kodama
 [submodule "MetChem"]
 	path = MetChem
-	url = https://github.com/cran/MetChem
+	url = https://github.com/tkcaccia/metchem
+[submodule "clinical"]
+	path = clinical
+	url = https://github.com/tkcaccia/clinical
 [submodule "musicNMR"]
 	path = musicNMR
 	url = https://github.com/cran/musicNMR

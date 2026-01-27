@@ -2,12 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "KODAMA"]
-	path = KODAMA
-	url = https://github.com/tkcaccia/kodama
-[submodule "MetChem"]
-	path = MetChem
-	url = https://github.com/tkcaccia/metchem
 [submodule "clinical"]
 	path = clinical
 	url = https://github.com/tkcaccia/clinical

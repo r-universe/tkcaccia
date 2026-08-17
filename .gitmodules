@@ -8,6 +8,9 @@
 [submodule "clinical"]
 	path = clinical
 	url = https://github.com/tkcaccia/clinical
+[submodule "fastPLS"]
+	path = fastPLS
+	url = https://github.com/tkcaccia/fastpls
 [submodule "musicNMR"]
 	path = musicNMR
 	url = https://github.com/cran/musicNMR

@@ -11,6 +11,9 @@
 [submodule "fastPLS"]
 	path = fastPLS
 	url = https://github.com/tkcaccia/fastpls
+[submodule "fibermargin"]
+	path = fibermargin
+	url = https://github.com/tkcaccia/fibermargin
 [submodule "musicNMR"]
 	path = musicNMR
 	url = https://github.com/cran/musicNMR

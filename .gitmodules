@@ -14,6 +14,9 @@
 [submodule "fibermargin"]
 	path = fibermargin
 	url = https://github.com/tkcaccia/fibermargin
+[submodule "gpuinfo"]
+	path = gpuinfo
+	url = https://github.com/tkcaccia/gpuinfo
 [submodule "musicNMR"]
 	path = musicNMR
 	url = https://github.com/cran/musicNMR

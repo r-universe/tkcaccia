@@ -5,6 +5,9 @@
 [submodule "KODAMA"]
 	path = KODAMA
 	url = https://github.com/tkcaccia/kodama
+[submodule "PathoFMPred"]
+	path = PathoFMPred
+	url = https://github.com/tkcaccia/pathofmpred
 [submodule "clinical"]
 	path = clinical
 	url = https://github.com/tkcaccia/clinical
